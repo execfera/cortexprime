@@ -13,16 +13,16 @@
   "description": "Cortex Prime System WARNING: This is currently in Beta. Which means there is a risk of breaking changes with every update. More features are being planned and worked on. It is currently playable, however, expect bugs and you may need to use the features that currently exist in different ways to make up for a feature that is not yet released.",
   "documentTypes": {
     "Actor": {
-      "Character": {}
+      "character": {}
     },
     "Item": {
-      "Asset": {
+      "asset": {
         "quantity": 1,
         "weight": 0
       }
     }
   },
-  "download": "https://github.com/execfera/cortexprime/archive/refs/tags/v0.2.19.zip",
+  "download": "https://github.com/execfera/cortexprime/archive/refs/tags/v0.2.20.zip",
   "esmodules": ["cortexprime.js"],
   "id": "cortexprime",
   "grid": {
@@ -42,5 +42,5 @@
   "styles": ["css/cortexprime.css"],
   "title": "Cortex Prime",
   "url": "https://github.com/execfera/cortexprime",
-  "version": "0.2.19"
+  "version": "0.2.20"
 }
